@@ -1,4 +1,4 @@
-Order of the projects
+**Order of the projects**
 
 1.  Inbox
 2.  Kickstart
